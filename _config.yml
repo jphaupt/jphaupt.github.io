@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: J.
-middle_name: Philip
+first_name: J. Philip
+middle_name:
 last_name: Haupt
 contact_note: >
   Feel free to reach out to me via email.
@@ -49,7 +49,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -173,6 +173,15 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _books/
+  - _pages/dropdown.md
+  - _pages/books.md
+  - _pages/teaching.md
+  - _pages/profiles.md
+  - _news/
+  - _pages/blog.md
+  - _posts/
+  - note-to-self/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -264,8 +273,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Haupt]
+  first_name: [J. Philip, Philip, J. P.]
 
   style: apa
   locale: en
