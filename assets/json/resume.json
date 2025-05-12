@@ -27,6 +27,30 @@
                      "machine learning in polymer sequencing (EPFL, 2018)",
                      "machine learning for STM images (MPI-FKF, 2017)",
                      "data analysis for police staffing (RCMP, 2016)"]
+    },
+    {
+      "name": "University of Toronto",
+      "position": "Graduate Teaching Assistant",
+    //   "url": "https://example.com",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Led and marked labs, and gave office hours to students in introductory physics courses."
+    //   "highlights": ["machine learning in optical physics (UBC, 2019)",
+    //                  "machine learning in polymer sequencing (EPFL, 2018)",
+    //                  "machine learning for STM images (MPI-FKF, 2017)",
+    //                  "data analysis for police staffing (RCMP, 2016)"]
+    },
+    {
+      "name": "University of British Columbia",
+      "position": "Undergraduate Teaching Assistant",
+    //   "url": "https://example.com",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "Led and marked labs, presented tutorials and gave office hours to students in introductory physics courses."
+    //   "highlights": ["machine learning in optical physics (UBC, 2019)",
+    //                  "machine learning in polymer sequencing (EPFL, 2018)",
+    //                  "machine learning for STM images (MPI-FKF, 2017)",
+    //                  "data analysis for police staffing (RCMP, 2016)"]
     }
   ],
   "education": [
