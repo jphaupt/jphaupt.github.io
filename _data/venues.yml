@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"JCP":
+  url: https://pubs.aip.org/aip/jcp
+  color: "#0000FF"
+
+"JCTC":
+  url: https://pubs.acs.org/journal/jctcce
+  color: "#FFFF00"
+
+"arxiv":
+  url: https://arxiv.org/
+  color: "#FF0000"
