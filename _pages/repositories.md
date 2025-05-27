@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Unfortunately (and against my own personal preference), much of my contributinos are still under private repos, but some can be seen here.
+description: Unfortunately (and against my own personal preference), much of my contributions are still under private repos, but some can be seen here.
 nav: true
 nav_order: 4
 ---
