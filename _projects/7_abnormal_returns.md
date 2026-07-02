@@ -129,13 +129,14 @@ The CAR for these stocks (with an estimation window of 200 market days and event
 <iframe src="{{ '/assets/plotly/biotech_car.html' | relative_url }}"
         width="100%" height="620" frameborder="0" scrolling="no"></iframe>
 
-The clearest result is **Sarepta's DMD expanded approval (June 2024)**: CAR jumps approximation +29 on
-the day after approval and holds. Here a relatively small company experiences a large (positive) surprise.
+Two of the clearest results are **Biogen's Aduhelm Alzheimer's treatment approval** (which was highly controversial and surprising due to the drug's apparent lack of efficacy) and  **Sarepta's DMD expanded approval (June 2024)**: CAR jumps approximation significantly on
+the day or just after approval and holds. Here small companies experience a large (positive) surprise.
 
-By contrast, the COVID vaccine approvals for Pfizer and BioNTech (after the emergency approval) show near-zero CAR: these
+By contrast, the COVID vaccine approvals for Pfizer and BioNTech (not the emergency approval) show near-zero CAR: these
 were anticipated, so there was no new
 information and not much abnormal movement, illustrating *surprise* drives volatility,
-not just the approval itself.
+not just the approval itself. From my understanding, this is the core of what
+Narang must be getting at.
 
 ---
 
