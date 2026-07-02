@@ -89,6 +89,11 @@ ninja.data = [{
           description: "My teaching experience",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_teaching/";
+            },},{id: "projects-biotech-stock-event-study",
+          title: 'Biotech Stock Event Study',
+          description: "Quantifying FDA-driven stock volatility via cumulative abnormal return analysis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_abnormal_returns/";
             },},{
         id: 'social-email',
         title: 'email',
