@@ -2,7 +2,7 @@
 layout: page
 title: "CIPSIpy: Quantum Chemistry in Python"
 description: High-accuracy quantum chemistry algorithm implementation with JAX and AI pair-programming
-img: assets/img/cipsipy-exponential-wall.png
+img: assets/img/exponential_wall.png
 category: fun
 ---
 
