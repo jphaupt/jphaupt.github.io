@@ -13,16 +13,17 @@
       "position": "Postdoctoral Researcher",
       "startDate": "2026-01-16",
     //   "endDate": "1955-01-01",
-      "summary": "Using quantum Monte Carlo and high-accuracy quantum chemistry algorithms with machine learning to improve the accuracy of atomistic foundation models."
+      "summary": "Using quantum Monte Carlo and high-accuracy quantum chemistry algorithms with machine learning to improve the accuracy of atomistic foundation models.",
+      "highlights": ["machine learning", "molecular dynamics", "monte carlo", "python", "JAX"]
     //   "
-    }
+    },
     {
       "name": "Max Planck Institute for Solid State Research",
       "position": "Postdoctoral Researcher",
       "startDate": "2025-05-01",
       "endDate": "1955-01-01",
-      "summary": "Continued my PhD research in the transcorrelated method under the supervision of Prof. Ali Alavi. Paper writing and software development."
-    //   "highlights": ["Relativity"]
+      "summary": "Continued my PhD research in the transcorrelated method under the supervision of Prof. Ali Alavi. Paper writing and software development.",
+      "highlights": ["scientific publishing", "software development", "project management and leadership"]
     },
     {
       "name": "Undergraduate Employment",
@@ -70,7 +71,7 @@
       "endDate": "2025-04-30",
       "startDate": "2020-11-01",
       "score": "manga cum laude",
-      "courses": ["quantum chemistry", "scientific software development", "scientific publishing"]
+      "courses": ["quantum chemistry", "scientific software development", "scientific publishing", "python", "fortran", "language interoperability"]
     },
     {
       "institution": "University of British Columbia",
