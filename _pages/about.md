@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Max Planck Institute for Solid State Research
+subtitle: Computational Scientist
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
