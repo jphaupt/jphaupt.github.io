@@ -9,11 +9,19 @@
   },
   "work": [
     {
+      "name": "Sorbonne University",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2026-01-16",
+    //   "endDate": "1955-01-01",
+      "summary": "Using quantum Monte Carlo and high-accuracy quantum chemistry algorithms with machine learning to improve the accuracy of atomistic foundation models."
+    //   "
+    }
+    {
       "name": "Max Planck Institute for Solid State Research",
       "position": "Postdoctoral Researcher",
       "startDate": "2025-05-01",
-    //   "endDate": "1955-01-01",
-      "summary": "Continuing my PhD research in the transcorrelated method under the supervision of Prof. Ali Alavi."
+      "endDate": "1955-01-01",
+      "summary": "Continued my PhD research in the transcorrelated method under the supervision of Prof. Ali Alavi. Paper writing and software development."
     //   "highlights": ["Relativity"]
     },
     {
