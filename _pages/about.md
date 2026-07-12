@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computational Scientist
+subtitle: Computational Scientist and Quantum Chemist/Physicist
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
