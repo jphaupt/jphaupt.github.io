@@ -74,11 +74,6 @@ ninja.data = [{
           description: "The FCIQMC software I helped develop during my PhD",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_neci/";
-            },},{id: "projects-generative-molecular-ai",
-          title: 'Generative molecular AI',
-          description: "A fun side project",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_genai/";
             },},{id: "projects-co-operative-education",
           title: 'Co-Operative Education',
           description: "A brief description of my work during my undegrad",
@@ -94,6 +89,16 @@ ninja.data = [{
           description: "Quantifying FDA-driven stock volatility via cumulative abnormal return analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_abnormal_returns/";
+            },},{id: "projects-cipsipy-quantum-chemistry-in-python",
+          title: 'CIPSIpy: Quantum Chemistry in Python',
+          description: "High-accuracy quantum chemistry algorithm implementation with JAX and AI pair-programming",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_cipsipy/";
+            },},{id: "projects-generative-molecular-ai",
+          title: 'Generative molecular AI',
+          description: "Exploring generative AI models in chemistry",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_genai/";
             },},{
         id: 'social-email',
         title: 'email',
