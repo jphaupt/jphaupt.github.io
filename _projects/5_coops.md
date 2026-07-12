@@ -28,7 +28,7 @@ model that took fixed-length sequences to one that can handle arbitrary-length s
 
 ### Machine Learning for Experimental Condensed Matter Physics
 
-Under the supervision of Prof Christian Ast, I worked on prescreening scanneling tunneling
+Under the supervision of Dr Christian Ast, I worked on prescreening scanneling tunneling
 microscopy (STM) images and signals using MATLAB and convolutional neural networks.
 This was my first introduction to machine learning and to solid state physics, but I
 managed to have a working model by the end of the work term.
